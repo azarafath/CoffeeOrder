@@ -2,6 +2,8 @@
 
 The Simple Coffee Order application UI was created using the Flutter framework.
 
+Design by https://pixel.buildwithangga.com/details/eksploration-ui-coffee-order
+
 Screnshoot :
 <br>
 <br>
